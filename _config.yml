@@ -1,0 +1,4 @@
+theme: jekyll-theme-slate
+title: OSG-Connect Issuer OAuth
+description: Federated Authorization Ecosystem for Distributed Scientific Computing
+include: [".well-known"]
