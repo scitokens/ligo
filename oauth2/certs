@@ -18,12 +18,13 @@
             "y": "bJIvQHh5DPe-yPrV-7ZKr3jSIhmEHMAKGFA3YPj_I3A="
         },
         {
-            "alg": "RS256",
-            "e": "AQAB",
-            "kid": "4ace",
-            "kty": "RSA",
-            "n": "3r-M9aeg2uiyqBPkUkCqI0qHcSPchT_38Tj8eE_QUWM7OSWYVQad7bUEAGSb97O_8vQXg_8ebpuhH7Zec7q5RK475xcacb6V67oDvIZn96zClNt2T2LedDmZPngkTNViZTPS5rPsf0MMBXkJaQRugEKJdWK4MIOb3U0NY-C9K-a1SNJQtduUful9E04ir8veWbtV1IKNoFEzy8AKSnImT3tUgp8RCpDvOfyt50l30RGrGHJISz-zpx0tTL_07_9lsl-T6JuTT2K33rBGpMrN-H8OI9vdWGMW3ifB57Gqz1RXToKQANfGc5c7HSW4G4c5a3y9kmKJGF0fLIc-jxqa2w==",
-            "use": "sig"
+            "alg": "ES256",
+            "crv": "P-256",
+            "kid": "d470",
+            "kty": "EC",
+            "use": "sig",
+            "x": "yst6hluWbSpAsqZzE97IXqScLxKHt-1a7AeCQM4t0uY=",
+            "y": "TqWqVtRSWk_CqSMndKP9AfxKW7wu6akwcOZ1LBF3lDU="
         }
     ]
 }
