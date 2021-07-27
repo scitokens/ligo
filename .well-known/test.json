@@ -1,0 +1,5 @@
+{  
+   "issuer":"https://scitokens.org/ligo",
+   "jwks_uri":"https://scitokens.org/ligo/oauth2/certs",
+   "token_endpoint":"https://ligo.scitokens.org/token"
+}
