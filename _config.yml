@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
-title: OSG-Connect Issuer OAuth
+title: LIGO SciTokens OAuth Issuer Metadata
 description: Federated Authorization Ecosystem for Distributed Scientific Computing
 include: [".well-known"]
