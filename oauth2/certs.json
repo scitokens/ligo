@@ -25,6 +25,15 @@
             "use": "sig",
             "x": "yst6hluWbSpAsqZzE97IXqScLxKHt-1a7AeCQM4t0uY=",
             "y": "TqWqVtRSWk_CqSMndKP9AfxKW7wu6akwcOZ1LBF3lDU="
+        },
+        {
+            "alg": "ES256",
+            "crv": "P-256",
+            "kid": "60fb",
+            "kty": "EC",
+            "use": "sig",
+            "x": "s_ql9pW7qhgMzC0hCWT2xKNZvRgh6hvPj6N7UZLI3k0=",
+            "y": "k_DcFDIDxQiofHNqXX_8UiRKrrBm0ezn3W8Qdtl_do0="
         }
     ]
 }
